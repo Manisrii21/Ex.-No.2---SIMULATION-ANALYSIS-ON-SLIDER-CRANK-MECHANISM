@@ -44,8 +44,11 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-![Screenshot 2024-04-17 143901](https://github.com/23003324/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/140035234/fe7c533b-3fe7-4b21-ae2a-84bd67cc850d)
+![2](https://github.com/Manisrii21/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/147140163/f7c0d788-a119-4060-860c-216ce710d318)
 
+![2 1](https://github.com/Manisrii21/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/147140163/896ffe4c-b42f-4666-8dd7-9a2e0312968e)
+
+![2 2](https://github.com/Manisrii21/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/147140163/8ea338b3-f003-48b6-b48b-2986db11f662)
 
 
 ### Name: Mani Sri Latha M
